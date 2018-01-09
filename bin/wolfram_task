@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'wolfram_task/cli'
+WolframTask::CLI.start
